@@ -54,7 +54,7 @@ jobs:
           haxelib install hscript
           haxelib install newgrounds
           haxelib install flixel-addons
-          haxelib git polymod https://github.com/MasterEric/polymod.git --quiet
+          haxelib install polymod
           haxelib git extension-webm https://github.com/KadeDev/extension-webm
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git linc_luajit https://github.com/Sirox228/linc_luajit
